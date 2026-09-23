@@ -3,4 +3,4 @@ def area(a):
 
 
 def perimeter(a):
-    return 4 * a
+    return 7 * a
